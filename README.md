@@ -1,7 +1,7 @@
 
 # Expense Tracker App with Context Api
 
-![alt text](https://hassanjrao.github.io/expense-tracker22/blob/main/expense-tracker-image.png?raw=true)
+![plot](./expense-tracker-image.png)
   
 
 I have decided to move out my Laravel comfortzone, therefore I have started learning react. In this project I have learnt and implemented the following react concepts.

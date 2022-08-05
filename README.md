@@ -1,7 +1,7 @@
 
 # Expense Tracker App with Context Api
 
-I have decided to move out my Laravel comfortzone, therefore I have started learning react. In this project I have learnt and implemented the following react concepts.
+I have decided to move out of my Laravel comfort zone, therefore I have started learning ReactJs. In this project, I have learned and implemented the following react concepts:
 
 ![plot](./expense-tracker-image.png)
   
@@ -13,5 +13,5 @@ I have decided to move out my Laravel comfortzone, therefore I have started lear
  3. Context Api for global state management, the solution of props drilling
 
   
-### Live link of the project
+### Live link to the project
 [https://hassanjrao.github.io/expense-tracker22/](https://hassanjrao.github.io/expense-tracker22/)

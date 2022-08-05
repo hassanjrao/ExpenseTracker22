@@ -1,11 +1,9 @@
 
 # Expense Tracker App with Context Api
 
-![plot](./expense-tracker-image.png)
-  
-
 I have decided to move out my Laravel comfortzone, therefore I have started learning react. In this project I have learnt and implemented the following react concepts.
 
+![plot](./expense-tracker-image.png)
   
 
 ### React Concepts

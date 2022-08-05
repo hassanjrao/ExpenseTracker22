@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Expense Tracker App with Context Api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have decided to move out my Laravel comfortzone, therefore I have started learning react. In this project I have learnt and implemented the following react concept.
 
-## Available Scripts
+## Ava
 
 In the project directory, you can run:
 
